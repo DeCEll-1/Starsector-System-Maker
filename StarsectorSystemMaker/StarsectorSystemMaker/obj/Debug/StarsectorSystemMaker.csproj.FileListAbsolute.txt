@@ -1,0 +1,11 @@
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\obj\Debug\StarsectorSystemMaker.csproj.AssemblyReference.cache
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\obj\Debug\StarsectorSystemMaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\obj\Debug\StarsectorSystemMaker.BaseForm.resources
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\obj\Debug\StarsectorSystemMaker.Properties.Resources.resources
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\obj\Debug\StarsectorSystemMaker.csproj.GenerateResource.cache
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\obj\Debug\StarsectorSystemMaker.csproj.CoreCompileInputs.cache
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\bin\Debug\StarsectorSystemMaker.exe.config
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\bin\Debug\StarsectorSystemMaker.exe
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\bin\Debug\StarsectorSystemMaker.pdb
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\obj\Debug\StarsectorSystemMaker.exe
+C:\Users\poedx\source\repos\StarsectorSystemMaker\StarsectorSystemMaker\obj\Debug\StarsectorSystemMaker.pdb
